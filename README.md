@@ -16,7 +16,7 @@ This project is a **real-time restaurant order management system** built using *
 - **ASP.NET Core 6+**
 - **SignalR** for real-time communication
 - **Entity Framework Core** for database operations
-- **SQL Server** (or any compatible RDBMS)
+- **SQL Server** 
 - **AutoMapper**, **FluentValidation**, **MediatR** (optional)
 - **JavaScript/TypeScript** for frontend SignalR clients
 
