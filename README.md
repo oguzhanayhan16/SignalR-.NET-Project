@@ -20,4 +20,3 @@ This project is a **real-time restaurant order management system** built using *
 - **AutoMapper**, **FluentValidation**, **MediatR** (optional)
 - **JavaScript/TypeScript** for frontend SignalR clients
 
-## 📡 Real-Time Communication (SignalR)
